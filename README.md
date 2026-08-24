@@ -1,7 +1,7 @@
 # ENTP 5771 — «your name»
 
 **Product I am analyzing:** «fill this in during Week 2»
-**Path:** «A — crowdfunding campaign / B — curated project / C — my own venture»
+**Path:** «A — campaign I found / B — campaign from the course list / C — my own venture»
 
 ---
 
