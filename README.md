@@ -32,6 +32,12 @@ repository reorganised badly.
 You do not need to know git. Everything here can be done in the browser: open a folder, click
 **Add file**, upload or create, write a one-line message, commit.
 
+**If you would rather work on your own machine**, use
+[GitHub Desktop](https://desktop.github.com) rather than the command line. It signs in through
+your browser, so there is no token to create — clone the repository, work in the folder, then
+commit and push from the app. Fetch before you start if you have also been editing on the
+website.
+
 **Commit as you go, not at the end.** Not because commit counts are graded — they are not — but
 because a repository that accumulates is one you can look back through when a number stops making
 sense in November, and a repository that appears in one lump on the last night is not.
