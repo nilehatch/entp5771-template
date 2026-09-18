@@ -22,7 +22,11 @@ them in order, and at the end the folders *are* the argument.
 | `profit/` | Cost structure, scale and population, the profit model, sensitivity | 6–9 |
 | `competition/` | The competition instrument, its data, two demand curves, the equilibrium | 10–13 |
 | `final/` | The call | 15 |
-| `ai-log/` | Your prompt-and-response logs — one file per milestone | throughout |
+| `ai-log/` | Scratch space for AI work that belongs to no single unit | throughout |
+
+**Your graded AI supervision logs live beside the work they belong to**, not in `ai-log/`. Each
+assignment names the file: `demand/ai-log-week5.md` for the competence check,
+`demand/ai-log-milestone1.md` for Milestone I, and so on. Follow the assignment.
 
 Put files where they belong when you make them. A repository organised at the end is a
 repository reorganised badly.
